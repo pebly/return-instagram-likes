@@ -34,7 +34,6 @@
   },
   "manifest_version": 3,
   "name": "Return Instagram Likes",
-  "permissions": ["storage"],
   "short_name": "Return Instagram Likes",
   "version": "0.1.0"
 }
